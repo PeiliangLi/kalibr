@@ -1,0 +1,21 @@
+Calibration results 
+====================
+Camera-system parameters:
+	cam0 (/djiros/image):
+	 type: <class 'aslam_cv.libaslam_cv_python.DistortedPinholeCameraGeometry'>
+	 distortion: [-0.30468109  0.09858761 -0.00010757 -0.00012765] +- [ 0.00224316  0.00283272  0.00027193  0.00022503]
+	 projection: [ 422.31476313  422.0863575   369.13617223  242.38062482] +- [ 1.07821599  1.1695553   1.4335986   1.16417966]
+	 reprojection error: [0.000000, -0.000000] +- [0.080680, 0.070282]
+
+
+
+Target configuration
+====================
+
+  Type: checkerboard
+  Rows
+    Count: 11
+    Distance: 0.07 [m]
+  Cols
+    Count: 8
+    Distance: 0.07 [m]

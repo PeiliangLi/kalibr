@@ -1,0 +1,9 @@
+cam0:
+  cam_overlaps: []
+  camera_model: pinhole
+  distortion_coeffs: [-0.3046810873817194, 0.0985876067379147, -0.00010757225295819505,
+    -0.00012765178658212043]
+  distortion_model: radtan
+  intrinsics: [422.31476312913185, 422.08635749910906, 369.13617222708706, 242.38062482018685]
+  resolution: [752, 480]
+  rostopic: /djiros/image
